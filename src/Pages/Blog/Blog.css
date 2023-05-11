@@ -1,0 +1,31 @@
+.body {
+  margin-top: 80px;
+  margin-bottom: 100px;
+  }
+  
+.titleNote {
+    font-size: 36px;
+    text-align: flex;
+    margin-left: 25px;
+  }
+  
+.marginNote {
+    margin: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px #ccc;
+    background-color: #FFF4CC;
+  }
+
+
+  
+.textNote {
+    font-size: 22px;
+  }
+  
+.dateNote {
+    font-size: 24px;
+    margin-left: 1400px;
+  }
+
+

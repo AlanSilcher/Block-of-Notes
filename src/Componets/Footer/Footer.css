@@ -1,0 +1,30 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #CEF2EF;
+    color: #022859;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    height: 60px;
+  }
+  
+  .footer-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .footer-info a {
+    display: flex;
+    align-items: center;
+    color: #022859;
+  }
+  
+  .footer-info svg {
+    margin-top: 15px;
+    margin-right: 35px;
+  }
+  
