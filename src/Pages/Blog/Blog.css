@@ -4,7 +4,7 @@
   }
   
 .titleNote {
-    font-size: 36px;
+    font-size: 40px;
     text-align: flex;
     margin-left: 25px;
   }
@@ -17,15 +17,13 @@
     background-color: #FFF4CC;
   }
 
-
-  
 .textNote {
     font-size: 22px;
   }
   
 .dateNote {
     font-size: 24px;
-    margin-left: 1400px;
+    margin-left: 800px;
   }
 
 
